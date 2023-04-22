@@ -1,0 +1,8 @@
+# chronic-kidney-disease-detection
+
+
+
+LEADER S.VEERAMANI
+K.SRI HARIRAM
+V.NAVEENKUMAR
+M.MANIBHARATHI
